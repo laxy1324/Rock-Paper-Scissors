@@ -33,10 +33,6 @@ while True:
                 print("The computer chose", computerChoice)
                 print("You win, Congratulations!")
                 break
-            #elif userChoice == 'Scissors' and computerChoice == 'Scissors':
-                print("The computer chose", computerChoice)
-                print("It's a scissor sword fight! You batlle hard and it ends up a draw!")
-                break
             elif userChoice == 'Scissors' and computerChoice == 'Rock':
                 print("The computer chose", computerChoice)
                 print("You lost, better luck next time!")
